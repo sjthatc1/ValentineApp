@@ -31,6 +31,8 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var profileImg: UIImageView!
     
+    @IBAction func batSignal(_ sender: Any) {
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
